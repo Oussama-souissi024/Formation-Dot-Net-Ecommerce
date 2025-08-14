@@ -199,8 +199,8 @@ Cette formation vise à transmettre des compétences avancées dans le développ
 
 2. **Implémenter des patterns essentiels** :
    - Repository Pattern pour l'abstraction de l'accès aux données
-   - Unit of Work pour la gestion des transactions
-   - CQRS simplifié via les DTOs et Services
+   - la gestion des transactions
+   - les DTOs et Services
    - Dependency Injection native d'ASP.NET Core
 
 3. **Développer des fonctionnalités e-commerce** :
@@ -213,9 +213,7 @@ Cette formation vise à transmettre des compétences avancées dans le développ
    - Entity Framework Core et migrations 
    - AutoMapper pour la transformation de données
    - ASP.NET Core MVC & API
-   - Tests unitaires avec xUnit
+   - Tests unitaires 
 
 Ces acquis permettent aux étudiants de construire des applications professionnelles maintenables, évolutives et robustes, en appliquant les meilleures pratiques de l'industrie du développement logiciel.
 
-## Licence
-Ce projet est distribué sous licence **MIT**. Voir le fichier `LICENSE` pour plus d'informations.
